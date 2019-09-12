@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7A1285C2232AB47F003120DC /* MapForItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A1285C1232AB47F003120DC /* MapForItinerary.swift */; };
 		7A6F846D232AB05700C256C1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A6F846C232AB05700C256C1 /* AppDelegate.swift */; };
 		7A6F846F232AB05700C256C1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A6F846E232AB05700C256C1 /* ViewController.swift */; };
 		7A6F8472232AB05700C256C1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A6F8470232AB05700C256C1 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7A1285C1232AB47F003120DC /* MapForItinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForItinerary.swift; sourceTree = "<group>"; };
 		7A6F8469232AB05700C256C1 /* GitUseExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitUseExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7A6F846C232AB05700C256C1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7A6F846E232AB05700C256C1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				7A6F846C232AB05700C256C1 /* AppDelegate.swift */,
 				7A6F846E232AB05700C256C1 /* ViewController.swift */,
+				7A1285C1232AB47F003120DC /* MapForItinerary.swift */,
 				7A6F8470232AB05700C256C1 /* Main.storyboard */,
 				7A6F8473232AB05800C256C1 /* Assets.xcassets */,
 				7A6F8475232AB05800C256C1 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				7A6F846F232AB05700C256C1 /* ViewController.swift in Sources */,
 				7A6F846D232AB05700C256C1 /* AppDelegate.swift in Sources */,
+				7A1285C2232AB47F003120DC /* MapForItinerary.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
